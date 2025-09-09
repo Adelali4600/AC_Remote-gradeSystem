@@ -1,4 +1,4 @@
-// Grade System Code
+// ========================= Grade System Code
 function getDegree() {
     let degree = +prompt('أدخل درجتك');
 
@@ -24,7 +24,7 @@ function getDegree() {
     }
 }
 
-// AC Remote Code
+// ========================= AC Remote Code
 let acDegrees = 16;
 let acStatus = false;
 let fanSpeed = 0;
